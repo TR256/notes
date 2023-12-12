@@ -1,3 +1,4 @@
+```java
 ExpressRunner runner = new ExpressRunner();
 runner.addOperatorWithAlias("如果", "if", null);
 runner.addOperatorWithAlias("则", "then", null);
@@ -39,3 +40,4 @@ System.out.println(expressionResult.setScale(2, RoundingMode.HALF_UP));
 //    return 3000.00;
 //}
 //////////////////////////
+```
